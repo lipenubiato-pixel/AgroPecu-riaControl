@@ -1,0 +1,6 @@
+{
+  "name": "AgroContro - Gestão Inteligente",
+  "description": "Sistema de gestão agrícola, pecuária e maquinário para pequenas e médias propriedades rurais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
